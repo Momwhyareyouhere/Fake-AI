@@ -1,1 +1,1 @@
-Replace "YOUR_BOT_TOKEN" wiht you real bot token:)
+Replace "YOUR_BOT_TOKEN_HERE" wiht you real bot token:)
